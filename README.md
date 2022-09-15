@@ -1,1 +1,1 @@
-# Classification-of-Unhealthy-Tuberculosis-and-Pneumonia-chest-x-ray
+# Classification-of-Healthy-Tuberculosis-and-Pneumonia-chest-x-ray
